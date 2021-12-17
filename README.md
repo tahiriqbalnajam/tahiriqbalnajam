@@ -2,7 +2,9 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/twitter/url?label=tahiriqbalnajam&style=social&url=https%3A%2F%2Ftwitter.com%2Ftahiriqbalnajam) [![Linkedin Badge](https://img.shields.io/badge/-tahiriqbalnajam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahiriqbalnajam)
+[![Twitter Badge](https://img.shields.io/twitter/url?label=tahiriqbalnajam&style=social&url=https%3A%2F%2Ftwitter.com%2Ftahiriqbalnajam)(https://twitter.com/tahiriqbalnajam)
+
+[![Linkedin Badge](https://img.shields.io/badge/-tahiriqbalnajam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahiriqbalnajam)
 
 - 🔭 I’m currently working as freelancer
 
